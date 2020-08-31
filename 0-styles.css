@@ -156,8 +156,6 @@
   /* Header section */
 
   .header-section {
-    display: flex;
-    justify-content: center;
     min-height: 800px;
     height: 100%;
   }
@@ -165,11 +163,12 @@
   .header-section-main {
     display: flex;
     flex-direction: column;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: center;
     color: var(--color-white);
     height: 100%;
     min-height: 800px;
+    padding-bottom: 122px;
   }
 
   .header-section-main h1 {
@@ -189,7 +188,7 @@
     line-height: 26px;
     width: 65%;
     padding-top: 60px;
-    margin-bottom: 138px;
+    margin-bottom: auto auto 138px auto;
   }
 
   .header-section button {
