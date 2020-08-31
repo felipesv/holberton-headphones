@@ -4,7 +4,7 @@
 
 Create a web page like the below mockups, each one has its respective responsive design
 
-<p align="center"><img src="https://github.com/felipesv/holberton-headphones/muck-up.jpg" alt="muck-up"></a></p>
+<p align="center"><img src="https://github.com/felipesv/holberton-headphones/mockup.jpg" alt="mockup"></a></p>
 
 ---
 
